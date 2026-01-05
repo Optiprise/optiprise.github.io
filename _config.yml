@@ -1,0 +1,27 @@
+title: Optiprise — Northbound
+description: Regie op enterprise-verandering vanuit architectuur.
+url: "https://optiprise.nl"
+baseurl: ""
+
+markdown: kramdown
+theme: null
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+navigation:
+  - title: Northbound
+    url: /northbound/
+  - title: Optimum Paradigma
+    url: /optimum/
+  - title: Aanpak
+    url: /aanpak/
+  - title: Diensten
+    url: /diensten/
+  - title: Contact
+    url: /contact/
