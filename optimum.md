@@ -4,7 +4,7 @@ lead: Optimum in strategie, governance en uitvoering.
 description: Optimum is het Optiprise-gedachtegoed voor regie op enterprise-verandering.
 ---
 
-Veel organisaties veranderen veel, maar sturen onvoldoende op samenhang. Northbound is een bestuurlijke manier van werken waarbij enterprise architectuur wordt gebruikt om verandering te sturen.
+Veel organisaties veranderen veel, maar sturen onvoldoende op samenhang. Optimum is een bestuurlijke manier van werken waarbij enterprise architectuur wordt gebruikt om verandering te sturen.
 
 ## Waar Northbound voor staat
 Optimum brengt strategie, governance en uitvoering samen door:
