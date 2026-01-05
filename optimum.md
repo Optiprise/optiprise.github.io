@@ -1,14 +1,13 @@
 ---
-title: Northbound
-lead: Eén richting in strategie, governance en uitvoering.
-description: Northbound is het Optiprise-gedachtegoed voor regie op enterprise-verandering.
+title: Optimum
+lead: Optimum in strategie, governance en uitvoering.
+description: Optimum is het Optiprise-gedachtegoed voor regie op enterprise-verandering.
 ---
 
-Veel organisaties veranderen veel, maar sturen onvoldoende op samenhang. Northbound is een bestuurlijke manier van werken
-waarbij enterprise architectuur wordt gebruikt om verandering te sturen.
+Veel organisaties veranderen veel, maar sturen onvoldoende op samenhang. Northbound is een bestuurlijke manier van werken waarbij enterprise architectuur wordt gebruikt om verandering te sturen.
 
 ## Waar Northbound voor staat
-Northbound brengt strategie, governance en uitvoering in één lijn door:
+Optimum brengt strategie, governance en uitvoering samen door:
 - keuzes expliciet te maken,
 - afhankelijkheden inzichtelijk te maken,
 - en besluitvorming te borgen met lichte, consistente kaders.
