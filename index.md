@@ -8,10 +8,10 @@ description: Regie op enterprise-verandering vanuit architectuur.
   <div class="container">
     <div class="hero-grid">
       <div>
-        <div class="kicker">Optiprise — Northbound</div>
+        <div class="kicker">Optiprise</div>
         <h1>Regie op enterprise-verandering.</h1>
         <p class="lead">
-          Breng strategie, governance en uitvoering in één lijn. Gebruik enterprise architectuur als sturingsinstrument.
+          Breng strategie, governance en uitvoering samen. Gebruik enterprise architectuur als sturingsinstrument.
         </p>
 
         <div class="cta-row">
@@ -25,7 +25,7 @@ description: Regie op enterprise-verandering vanuit architectuur.
           <p>
             Organisaties hebben vaak voldoende plannen, maar onvoldoende samenhang in besluitvorming en uitvoering.
             Het gevolg: portfolio’s die uitdijen, afhankelijkheden die verrassen en waarde die lastig aantoonbaar is.
-            Optiprise helpt bestuurders om verandering bestuurbaar te maken door keuzes expliciet te maken en samenhang te borgen.
+            Optiprise helpt bestuurders en architecten om verandering bestuurbaar te maken door keuzes expliciet te maken en samenhang te borgen.
           </p>
           <ul>
             <li><strong>Bestuurbaar portfolio</strong> door expliciete keuzes, afhankelijkheden en prioriteiten</li>
@@ -49,7 +49,7 @@ description: Regie op enterprise-verandering vanuit architectuur.
           Het paradigma maakt zichtbaar waar regie ontbreekt en waar de grootste hefboom zit: governance, waardecreatie of beide.
         </p>
         <div class="cta-row">
-          <a class="btn" href="{{ '/northbound/' | relative_url }}">Northbound</a>
+          <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum</a>
           <a class="btn" href="{{ '/diensten/' | relative_url }}">Diensten</a>
         </div>
       </div>
