@@ -15,9 +15,7 @@ defaults:
       layout: page
 
 navigation:
-  - title: Northbound
-    url: /northbound/
-  - title: Optimum Paradigma
+  - title: Optimum
     url: /optimum/
   - title: Aanpak
     url: /aanpak/

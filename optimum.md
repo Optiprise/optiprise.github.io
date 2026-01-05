@@ -6,7 +6,7 @@ description: Optimum is het Optiprise-gedachtegoed voor regie op enterprise-vera
 
 Veel organisaties veranderen veel, maar sturen onvoldoende op samenhang. Optimum is een bestuurlijke manier van werken waarbij enterprise architectuur wordt gebruikt om verandering te sturen.
 
-## Waar Northbound voor staat
+## Waar Optimum voor staat
 Optimum brengt strategie, governance en uitvoering samen door:
 - keuzes expliciet te maken,
 - afhankelijkheden inzichtelijk te maken,
