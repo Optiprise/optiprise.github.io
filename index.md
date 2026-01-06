@@ -9,14 +9,14 @@ description: Regie op enterprise-verandering vanuit architectuur.
     <div class="hero-grid">
       <div>
         <div class="kicker">Optiprise</div>
-        <h1>Regie op enterprise-verandering.</h1>
+        <h1>Regie op de verandering</h1>
         <p class="lead">
           Breng strategie, governance en uitvoering samen. Gebruik enterprise architectuur als sturingsinstrument.
         </p>
 
         <div class="cta-row">
-          <a class="btn primary" href="{{ '/contact/' | relative_url }}">Plan een kennismaking</a>
-          <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum Paradigma</a>
+          <a class="btn primary" target="_blank" href="{{ '/handboek/?view=id-202c8e9a3daa4be6b13fce0bd30709a9' | relative_url }}">Handboek</a>
+          <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum</a>
         </div>
 
         <hr/>

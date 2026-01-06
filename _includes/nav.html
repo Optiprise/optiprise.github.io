@@ -1,6 +1,13 @@
 <header class="topbar">
   <div class="container topbar-inner">
-    <a class="brand" href="{{ '/' | relative_url }}">Optiprise<span class="dot">.</span></a>
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Optiprise">
+      <img
+        src="{{ '/assets/img/optiprise.svg' | relative_url }}"
+        alt="Optiprise"
+        class="brand-logo"
+      />
+    </a>
+
     <nav class="nav">
       {% for item in site.navigation %}
         <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">
