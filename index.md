@@ -9,48 +9,48 @@ description: Regie op enterprise-verandering vanuit architectuur.
     <div class="hero-grid">
       <div>
         <div class="kicker">Optiprise</div>
-        <h1>Regie op de verandering</h1>
+        <h1>Richting en samenhang in continue verandering</h1>
         <p class="lead">
-          Breng strategie, governance en uitvoering samen. Gebruik enterprise architectuur als sturingsinstrument.
+          Klantverwachtingen, maatschappelijke opgaven en technologische ontwikkelingen dwingen organisaties om sneller en continu te anticiperen op verandering. Wendbaarheid is geen ambitie meer, maar een randvoorwaarde voor continuïteit en waardecreatie.
         </p>
 
-        <div class="cta-row">
-          <a class="btn primary" target="_blank" href="{{ '/handboek/?view=id-202c8e9a3daa4be6b13fce0bd30709a9' | relative_url }}">Handboek</a>
-          <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum</a>
+      <hr/>
+
+        <div class="card">
+           <p>
+            Organisaties hebben geen tekort aan initiatieven, maar wel aan samenhang en focus. Ambities overstijgen vaak het verandervermogen, terwijl het inzicht ontbreekt om gefundeerde keuzes te maken. Zonder expliciete prioritering groeit het portfolio, nemen afhankelijkheden toe en blijft waarde ongrijpbaar.
+          </p>
+          <p>
+            Optiprise brengt richting en samenhang in verandering. Vanuit enterprise architectuur creëren wij inzicht in nut, noodzaak en onderlinge relaties van initiatieven, zodat bestuurders en portfoliomanagers bewuste keuzes kunnen maken.
+          </p>  
+            Met een bewezen methodiek helpen wij organisaties hun enterprise-architectuurdiscipline duurzaam te versterken. Actief, samen met de organisatie, of door tijdelijk regie te voeren op verandering. De uitgangspunten hiervan zijn vastgelegd in het Optimum Handboek.
         </div>
+
 
         <hr/>
 
-        <div class="card">
-          <p>
-            Organisaties hebben vaak voldoende plannen, maar onvoldoende samenhang in besluitvorming en uitvoering.
-            Het gevolg: portfolio’s die uitdijen, afhankelijkheden die verrassen en waarde die lastig aantoonbaar is.
-            Optiprise helpt bestuurders en architecten om verandering bestuurbaar te maken door keuzes expliciet te maken en samenhang te borgen.
-          </p>
-          <ul>
-            <li><strong>Bestuurbaar portfolio</strong> door expliciete keuzes, afhankelijkheden en prioriteiten</li>
-            <li><strong>Snellere besluitvorming</strong> met heldere kaders en toetsing</li>
-            <li><strong>Meer waarde per investering</strong> door focus op effecten, risico’s en leverbaarheid</li>
-          </ul>
-        </div>
 
-        <p class="small">
-          Doelgroep: CEO, CIO, CxO en Enterprise Architecten in organisaties met complexe veranderagenda’s.
-        </p>
+
       </div>
 
       <div class="card">
-        <div class="kicker">Optimum Paradigma</div>
+        <div class="kicker">Optimum Handboek</div>
         <p>
-          Het Optimum Paradigma beschrijft vijf aspecten die in samenhang nodig zijn voor resultaat:
-          <strong>Organisatie</strong>, <strong>Middelen</strong>, <strong>Motivatie</strong>, <strong>Methode</strong> en <strong>Resultaat</strong>.
+          Het <strong>Optimum Handboek</strong> vormt de samenhangende basis voor het inrichten en besturen van een wendbare organisatie. Het biedt houvast in een context waarin ambities groeien, veranderingen elkaar snel opvolgen en samenhang niet vanzelf ontstaat.
+        </p>
+        <p>
+          In het handboek zijn de essentiële bouwstenen samengebracht voor regie op verandering: van de principes en eigenschappen van het Optimum-paradigma tot een praktische werkwijze om de eigen architectuurdiscipline te onderzoeken en te versterken. Modellen, standaarden en referenties zijn direct toepasbaar en ondersteunen het maken van expliciete keuzes, het doorzien van afhankelijkheden en het vergroten van voorspelbare waardecreatie.
+        </p>
+        <p>
+          Het Optimum Handboek is geen statisch naslagwerk, maar een levend document. Het wordt periodiek aangescherpt en verrijkt op basis van nieuwe inzichten, praktijkervaringen en veranderende context. Zo groeit het handboek mee met de organisatie én met de uitdagingen waarvoor zij staat.
         </p>
         <p class="small">
-          Het paradigma maakt zichtbaar waar regie ontbreekt en waar de grootste hefboom zit: governance, waardecreatie of beide.
+          Dit handboek is bedoeld voor bestuurders, architecten en veranderaars die samenhang willen organiseren en verandering bestuurbaar willen maken — vandaag én morgen.
         </p>
+        <hr/>
         <div class="cta-row">
+          <a class="btn primary" target="_blank" href="{{ '/handboek/index.html?view=id-79fe6c670f4942cd90759a5dec603424' | relative_url }}">Handboek</a>
           <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum</a>
-          <a class="btn" href="{{ '/diensten/' | relative_url }}">Diensten</a>
         </div>
       </div>
     </div>
