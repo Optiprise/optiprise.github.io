@@ -24,10 +24,13 @@ description: Regie op enterprise-verandering vanuit architectuur.
             Optiprise brengt richting en samenhang in verandering. Vanuit enterprise architectuur creëren wij inzicht in nut, noodzaak en onderlinge relaties van initiatieven, zodat bestuurders en portfoliomanagers bewuste keuzes kunnen maken.
           </p>  
             Met een bewezen methodiek helpen wij organisaties hun enterprise-architectuurdiscipline duurzaam te versterken. Actief, samen met de organisatie, of door tijdelijk regie te voeren op verandering. De uitgangspunten hiervan zijn vastgelegd in het Optimum Handboek.
+
+          <hr/>
+          <div class="cta-row">
+            <a class="btn primary" href="{{ '/diensten' | relative_url }}">Diensten</a>
+            <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum</a>
+          </div>
         </div>
-
-
-        <hr/>
 
 
 
@@ -35,6 +38,7 @@ description: Regie op enterprise-verandering vanuit architectuur.
 
       <div class="card">
         <div class="kicker">Optimum Handboek</div>
+
         <p>
           Het <strong>Optimum Handboek</strong> vormt de samenhangende basis voor het inrichten en besturen van een wendbare organisatie. Het biedt houvast in een context waarin ambities groeien, veranderingen elkaar snel opvolgen en samenhang niet vanzelf ontstaat.
         </p>
@@ -44,14 +48,16 @@ description: Regie op enterprise-verandering vanuit architectuur.
         <p>
           Het Optimum Handboek is geen statisch naslagwerk, maar een levend document. Het wordt periodiek aangescherpt en verrijkt op basis van nieuwe inzichten, praktijkervaringen en veranderende context. Zo groeit het handboek mee met de organisatie én met de uitdagingen waarvoor zij staat.
         </p>
+        <p style="text-align: center;">
+          <a target="_blank" href="{{ '/handboek/index.html?view=id-79fe6c670f4942cd90759a5dec603424' | relative_url }}">
+            <img src="{{ '/assets/img/handboek.png' | relative_url }}"
+              alt="Optimum paradigma"
+              style="max-width: 35%; height: auto;">
+          </a>
+        </p>
         <p class="small">
           Dit handboek is bedoeld voor bestuurders, architecten en veranderaars die samenhang willen organiseren en verandering bestuurbaar willen maken — vandaag én morgen.
         </p>
-        <hr/>
-        <div class="cta-row">
-          <a class="btn primary" target="_blank" href="{{ '/handboek/index.html?view=id-79fe6c670f4942cd90759a5dec603424' | relative_url }}">Handboek</a>
-          <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum</a>
-        </div>
       </div>
     </div>
   </div>
