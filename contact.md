@@ -4,12 +4,12 @@ lead: Korte kennismaking met directe opbrengst.
 description: Neem contact op met Optiprise.
 ---
 
-In 30 minuten brengen we scherp:
-- welk besluit nu nodig is,
-- waar samenhang ontbreekt,
-- en wat de eerste effectieve interventie is.
+In 30 minuten krijgt u beeld:
+- welke meerwaarde Optiprise voor u kan bieden,
+- identificeren van signalen die wijzen op tekortkomingen,
+- en eventueel wat de eerste effectieve interventie is.
 
 **E-mail:** info@optiprise.nl  
-**LinkedIn:** (voeg link toe)
+**LinkedIn:** [LinkedIn](http://www.linkedin.com/in/bratgers)
 
-<a class="btn primary" href="mailto:info@optiprise.nl">Mail Optiprise</a>
+<a class="btn primary" href="mailto:info@optiprise.nl">Neem contact op</a>

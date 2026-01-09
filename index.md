@@ -13,9 +13,7 @@ description: Regie op enterprise-verandering vanuit architectuur.
         <p class="lead">
           Klantverwachtingen, maatschappelijke opgaven en technologische ontwikkelingen dwingen organisaties om sneller en continu te anticiperen op verandering. Wendbaarheid is geen ambitie meer, maar een randvoorwaarde voor continuïteit en waardecreatie.
         </p>
-
-      <hr/>
-
+        <hr/>
         <div class="card">
            <p>
             Organisaties hebben geen tekort aan initiatieven, maar wel aan samenhang en focus. Ambities overstijgen vaak het verandervermogen, terwijl het inzicht ontbreekt om gefundeerde keuzes te maken. Zonder expliciete prioritering groeit het portfolio, nemen afhankelijkheden toe en blijft waarde ongrijpbaar.
@@ -24,21 +22,15 @@ description: Regie op enterprise-verandering vanuit architectuur.
             Optiprise brengt richting en samenhang in verandering. Vanuit enterprise architectuur creëren wij inzicht in nut, noodzaak en onderlinge relaties van initiatieven, zodat bestuurders en portfoliomanagers bewuste keuzes kunnen maken.
           </p>  
             Met een bewezen methodiek helpen wij organisaties hun enterprise-architectuurdiscipline duurzaam te versterken. Actief, samen met de organisatie, of door tijdelijk regie te voeren op verandering. De uitgangspunten hiervan zijn vastgelegd in het Optimum Handboek.
-
           <hr/>
           <div class="cta-row">
             <a class="btn primary" href="{{ '/diensten' | relative_url }}">Diensten</a>
             <a class="btn" href="{{ '/optimum/' | relative_url }}">Optimum</a>
           </div>
         </div>
-
-
-
       </div>
-
       <div class="card">
         <div class="kicker">Optimum Handboek</div>
-
         <p>
           Het <strong>Optimum Handboek</strong> vormt de samenhangende basis voor het inrichten en besturen van een wendbare organisatie. Het biedt houvast in een context waarin ambities groeien, veranderingen elkaar snel opvolgen en samenhang niet vanzelf ontstaat.
         </p>

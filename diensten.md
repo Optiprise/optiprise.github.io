@@ -1,23 +1,46 @@
 ---
+layout: default
 title: Diensten
-lead: Besturing, samenhang en resultaat in complexe veranderagenda’s.
-description: Overzicht van diensten van Optiprise.
+permalink: /diensten/
 ---
 
-## Visieontwikkeling
-Van ambitie naar richtinggevende keuzes en consequenties voor organisatie en technologie.
+# Diensten
+Optiprise maakt verandering bestuurbaar met heldere keuzes, samenhang en toetsing op waarde.
 
-## Governance (besturing)
-Besluitvorming, mandaten en toetsing zo inrichten dat het portfolio bestuurbaar blijft.
+<div class="services-grid">
+  {% include card.html
+     title="Visieontwikkeling"
+     icon="visieontwikkeling"
+     lead="Van ambitie naar richtinggevende keuzes en consequenties voor organisatie en technologie."
+  %}
 
-## Waardecreatie
-Van roadmaps tot architectuurtoetsing: inzichten en producten die sturen op waarde, risico en leverbaarheid.
+  {% include card.html
+     title="Governance"
+     icon="governance"
+     lead="Besluitvorming, mandaten en toetsing zo inrichten dat het portfolio bestuurbaar blijft."
+  %}
 
-## Coaching & Training
-Versterken van de architectuurfunctie en besluitvaardigheid in de lijn.
+  {% include card.html
+     title="Waardecreatie"
+     icon="waardecreatie"
+     lead="Van roadmaps tot architectuurtoetsing: inzichten en producten die sturen op waarde, risico en leverbaarheid."
+  %}
 
-## (Proces)optimalisatie
-Versnellen van doorlooptijden en verminderen van frictie in ketens en uitvoering.
+  {% include card.html
+     title="Coaching & Training"
+     icon="training"
+     lead="Versterken van de architectuurfunctie en besluitvaardigheid in de lijn."
+  %}
 
-## Probleemanalyse
-Oorzaakanalyse en keuzevoorstellen met scenario’s, impact en afhankelijkheden.
+  {% include card.html
+     title="(Proces)optimalisatie"
+     icon="optimalisatie"
+     lead="Versnellen van doorlooptijden en verminderen van frictie in ketens en uitvoering."
+  %}
+
+  {% include card.html
+     title="Probleemanalyse"
+     icon="analyse"
+     lead="Oorzaakanalyse en keuzevoorstellen met scenario’s, impact en afhankelijkheden."
+  %}
+</div>
