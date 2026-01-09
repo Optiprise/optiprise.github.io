@@ -1,0 +1,42 @@
+{%- comment -%}
+Usage:
+  {% include service-card.html
+     title="Visieontwikkeling"
+     icon="visieontwikkeling"
+     lead="Van ambitie naar richtinggevende keuzes en consequenties voor organisatie en technologie."
+  %}
+Params:
+  - title (required)
+  - icon  (required)  -> slug, used as /assets/icons/services/<icon>.svg
+  - lead  (required)
+  - href  (optional)  -> link to detail page
+{%- endcomment -%}
+
+<div class="service-card">
+  {%- if include.href -%}
+    <a class="service-card__link" href="{{ include.href | relative_url }}">
+  {%- endif -%}
+
+  <div class="service-card__icon-wrap" aria-hidden="true">
+    <img
+      class="service-card__icon"
+      src="{{ '/assets/icons/' | append: include.icon | append: '.svg' | relative_url }}"
+      alt=""
+      loading="lazy"
+      width="80"
+      height="80"
+    />
+  </div>
+
+  <h3 class="service-card__title">
+    {{ include.title }}
+  </h3>
+
+  <p class="service-card__lead">
+    {{ include.lead }}
+  </p>
+
+  {%- if include.href -%}
+    </a>
+  {%- endif -%}
+</div>

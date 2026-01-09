@@ -1,0 +1,155 @@
+/* Optimum page styles */
+.optimum-section {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2.25rem 1.25rem;
+}
+
+.optimum-hero h1 {
+  margin: 0 0 0.75rem 0;
+}
+
+.optimum-lead {
+  font-size: 1.125rem;
+  line-height: 1.65;
+  margin: 0 0 0.75rem 0;
+}
+
+.optimum-sublead {
+  margin: 0;
+  opacity: 0.9;
+  line-height: 1.65;
+}
+
+.optimum-hero-media {
+  padding-top: 0.5rem;
+}
+
+.optimum-diagram {
+  background: rgba(0,0,0,0.03);
+  border-radius: 18px;
+  padding: 1.25rem;
+  overflow: hidden;
+}
+
+.optimum-diagram img,
+.optimum-diagram svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.optimum-two-col {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 900px) {
+  .optimum-two-col {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.optimum-block {
+  background: rgba(0,0,0,0.03);
+  border-radius: 18px;
+  padding: 1.25rem;
+}
+
+.optimum-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 900px) {
+  .optimum-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.optimum-card {
+  background: #fff;
+  border-radius: 18px;
+  padding: 1.25rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+}
+
+.optimum-card__header h3 {
+  margin: 0.5rem 0 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.optimum-card__lead {
+  margin: 0 0 0.75rem 0;
+  line-height: 1.6;
+  opacity: 0.92;
+}
+
+.optimum-kernvraag {
+  opacity: 0.75;
+  font-weight: 600;
+}
+
+.optimum-chip {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.06);
+}
+
+.optimum-chip--value {
+  background: rgba(0,0,0,0.06);
+}
+
+.optimum-chip--both {
+  background: rgba(0,0,0,0.06);
+}
+
+/* Collapsible details */
+.optimum-details {
+  border-top: 1px solid rgba(0,0,0,0.08);
+  padding-top: 0.75rem;
+}
+
+.optimum-details summary {
+  cursor: pointer;
+  font-weight: 700;
+  list-style: none;
+}
+
+.optimum-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.optimum-details summary::after {
+  content: "▾";
+  float: right;
+  opacity: 0.75;
+}
+
+.optimum-details[open] summary::after {
+  content: "▴";
+}
+
+.optimum-details__body {
+  margin-top: 0.75rem;
+  line-height: 1.65;
+  opacity: 0.95;
+}
+
+/* kleiner + gecentreerd diagram */
+.optimum-diagram--sm {
+  max-width: 500px;   /* pas aan: 560 / 640 / 720 */
+  margin: 0 auto;
+}
+
+/* als je ook minder padding wilt */
+.optimum-diagram {
+  padding: 0.9rem;
+}
