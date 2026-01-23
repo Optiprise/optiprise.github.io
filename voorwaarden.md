@@ -1,7 +1,9 @@
-# Algemene voorwaarden Optiprise 2026-01-01
+---
+title: Algemene voorwaarden Optiprise 2026-01-01
+lead: Praktisch en beknopt.
+description: Versie 2026-01-01 
+---
 
-**Versie:** 2026-01-01
-**Datum:** 1 januari 2026  
 
 ## Artikel 1: Definities
 1.1 **Optiprise:** de eenmanszaak (ZZP) die architectuurwerkzaamheden verricht en enterprise architectuur inricht voor organisaties.  
