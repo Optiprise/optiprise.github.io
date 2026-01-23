@@ -1,6 +1,6 @@
 ---
 title: Algemene voorwaarden Optiprise 2026-01-01
-lead: Praktisch en beknopt.
+lead: Versie 2026-01-01
 description: Versie 2026-01-01 
 ---
 
