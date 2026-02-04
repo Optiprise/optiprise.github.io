@@ -1,77 +1,151 @@
 ---
-title: Algemene voorwaarden Optiprise 2026-01-01
+title: Algemene voorwaarden Optiprise
 lead: Versie 2026-01-01
-description: Versie 2026-01-01 
+description: Algemene voorwaarden Optiprise – versie 2026-01-01
 ---
 
-
 ## Artikel 1: Definities
+
 1.1 **Optiprise:** de eenmanszaak (ZZP) die architectuurwerkzaamheden verricht en enterprise architectuur inricht voor organisaties.  
+
 1.2 **Opdrachtgever:** de natuurlijke persoon of rechtspersoon die een overeenkomst aangaat met Optiprise.  
+
 1.3 **Diensten:** alle werkzaamheden en leveringen van Optiprise zoals overeengekomen in de overeenkomst.  
+
 1.4 **Overeenkomst:** de schriftelijke of mondelinge afspraken tussen Optiprise en de Opdrachtgever betreffende de te verrichten diensten.  
 
+1.5 **Eigen Materialen:** alle door Optiprise vóór de totstandkoming van de overeenkomst of onafhankelijk van de overeenkomst ontwikkelde materialen, waaronder begrepen maar niet beperkt tot architectuurmodellen, concepten, methodieken, tekeningen, software, documentatie en overige intellectuele prestaties.  
+
+---
+
 ## Artikel 2: Toepasselijkheid
+
 2.1 Deze algemene voorwaarden zijn van toepassing op alle aanbiedingen, offertes, werkzaamheden, overeenkomsten en leveringen van diensten door of namens Optiprise.  
-2.2 Afwijkingen van deze voorwaarden zijn slechts geldig indien schriftelijk overeengekomen.  
+
+2.2 Afwijkingen van deze voorwaarden zijn slechts geldig indien deze schriftelijk zijn overeengekomen.  
+
+---
 
 ## Artikel 3: Offertes en Overeenkomsten
+
 3.1 Alle offertes van Optiprise zijn vrijblijvend, tenzij uitdrukkelijk anders vermeld.  
-3.2 De overeenkomst komt tot stand na schriftelijke of mondelinge bevestiging door de Opdrachtgever van de offerte.  
+
+3.2 Een overeenkomst komt tot stand op het moment dat de Opdrachtgever een offerte van Optiprise schriftelijk of mondeling aanvaardt.  
+
+---
 
 ## Artikel 4: Uitvoering van de Diensten
-4.1 Optiprise zal de diensten naar beste inzicht en vermogen uitvoeren, conform de eisen van goed vakmanschap.  
-4.2 Optiprise behoudt zich het recht voor om derden in te schakelen bij de uitvoering van de diensten.  
-4.3 Optiprise is bij het uitvoeren van de overeengekomen werkzaamheden geheel zelfstandig. Zij verricht de overeengekomen werkzaamheden naar eigen inzicht en zonder toezicht of leiding van de Opdrachtgever.  
-4.4 Partijen beogen uitdrukkelijk géén arbeidsovereenkomst aan te gaan in de zin van artikel 7:610 BW. Deze overeenkomst kwalificeert als een overeenkomst van opdracht. Optiprise is zelf verantwoordelijk voor de afdracht van belastingen en sociale premies en draagt het ondernemersrisico. Er is geen sprake van een gezagsverhouding.  
+
+4.1 Optiprise zal de diensten naar beste inzicht en vermogen uitvoeren, overeenkomstig de eisen van goed vakmanschap.  
+
+4.2 Optiprise is gerechtigd derden in te schakelen bij de uitvoering van de diensten.  
+
+4.3 Optiprise voert de overeengekomen werkzaamheden geheel zelfstandig uit.  
+Zij verricht de werkzaamheden naar eigen inzicht en zonder toezicht of leiding van de Opdrachtgever.  
+
+4.4 Partijen beogen uitdrukkelijk geen arbeidsovereenkomst aan te gaan in de zin van artikel 7:610 BW.  
+De overeenkomst kwalificeert als een overeenkomst van opdracht.  
+Optiprise is zelf verantwoordelijk voor de afdracht van belastingen en sociale premies en draagt het ondernemersrisico.  
+Er is geen sprake van een gezagsverhouding.  
+
+---
 
 ## Artikel 5: Vergoeding, Facturering en Betaling
-5.1 De vergoeding voor de diensten wordt overeengekomen in de offerte of overeenkomst.  
-5.2 Facturering vindt maandelijks plaats, tenzij schriftelijk anders overeengekomen.  
-5.3 Betaling dient te geschieden binnen 30 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen. tijdige betaling is de Opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd.	
-5.4 De vergoeding voor de diensten wordt overeengekomen in de offerte of overeenkomst.  
-5.5 Betaling dient te geschieden binnen 30 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen.  
-5.6 Bij niet tijdige betaling is de Opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd.  
+
+5.1 De vergoeding voor de diensten wordt vastgelegd in de offerte of overeenkomst.  
+
+5.2 Tenzij schriftelijk anders overeengekomen, vindt facturering maandelijks achteraf plaats.  
+
+5.3 Betaling dient te geschieden binnen dertig (30) dagen na factuurdatum.  
+
+5.4 Indien de Opdrachtgever niet tijdig betaalt, is deze van rechtswege in verzuim.  
+Vanaf dat moment is de Opdrachtgever wettelijke handelsrente verschuldigd, alsmede buitengerechtelijke incassokosten conform de wettelijke staffel.  
+
+5.5 Optiprise is gerechtigd haar werkzaamheden op te schorten zolang de Opdrachtgever in verzuim is met betaling.  
+
+---
 
 ## Artikel 6: Aansprakelijkheid
-6.1 Optiprise is niet aansprakelijk voor indirecte schade, gevolgschade of gederfde winst, tenzij sprake is van opzet of grove nalatigheid.  
-6.2 De aansprakelijkheid van Optiprise is beperkt tot het bedrag van de voor de desbetreffende dienst overeengekomen vergoeding.  
+
+6.1 Optiprise is uitsluitend aansprakelijk voor directe schade die het rechtstreekse gevolg is van een toerekenbare tekortkoming in de uitvoering van de overeenkomst.  
+
+6.2 Aansprakelijkheid voor indirecte schade, waaronder begrepen gevolgschade, gederfde winst, gemiste besparingen en bedrijfsstagnatie, is uitgesloten.  
+
+6.3 De aansprakelijkheid van Optiprise is in alle gevallen beperkt tot het bedrag van de voor de desbetreffende diensten overeengekomen vergoeding.  
+
+---
 
 ## Artikel 7: Intellectueel Eigendom en Licenties
-7.1 Alle intellectuele eigendomsrechten op de door Optiprise in het kader van de Overeenkomst ontwikkelde of ter beschikking gestelde materialen, rapporten, modellen en adviezen berusten bij Optiprise, tenzij schriftelijk anders overeengekomen.	
-7.2 Alle intellectuele eigendomsrechten op door Optiprise vóór de totstandkoming van de Overeenkomst of onafhankelijk van de Overeenkomst ontwikkelde materialen, waaronder begrepen maar niet beperkt tot bestaande (architectuur)modellen, concepten, methodieken, tekeningen, software, documentatie en andere intellectuele prestaties (hierna: **Eigen Materialen**), berusten te allen tijde bij Optiprise. De Overeenkomst strekt niet tot overdracht van enig intellectueel eigendomsrecht op deze Eigen Materialen.	
-7.3 Voor zover Eigen Materialen tijdens de uitvoering van de werkzaamheden door Optiprise worden verrijkt, verbeterd of aangepast, verkrijgt Optiprise – naast de Opdrachtgever – alle intellectuele eigendomsrechten op deze verrijkingen, verbeteringen of aanpassingen.	
-7.4 Optiprise verkrijgt het onbeperkte recht om de doorontwikkelde Eigen Materialen zelfstandig en vrijelijk te (her)gebruiken, waaronder begrepen het gebruik voor andere opdrachten en andere opdrachtgevers.	 
-7.5 Optiprise verleent aan de Opdrachtgever, voor zover noodzakelijk voor het gebruik van de resultaten van de diensten, een niet‑exclusief en niet‑overdraagbaar gebruiksrecht op de geleverde materialen.	 
-7.6 Optiprise stelt onderdelen van haar werk beschikbaar onder de **Creative Commons Attribution 4.0 International (CC BY 4.0)** licentie. Dit houdt in dat Opdrachtgevers deze onderdelen mogen delen en bewerken, mits correcte naamsvermelding van Optiprise plaatsvindt en de licentievoorwaarden worden nageleefd.
+
+7.1 Alle intellectuele eigendomsrechten op de door Optiprise in het kader van de overeenkomst ontwikkelde of ter beschikking gestelde materialen, rapporten, modellen en adviezen berusten bij Optiprise, tenzij schriftelijk anders overeengekomen.  
+
+7.2 Alle intellectuele eigendomsrechten op de Eigen Materialen berusten te allen tijde bij Optiprise.  
+De overeenkomst strekt niet tot overdracht van enig intellectueel eigendomsrecht op de Eigen Materialen.  
+
+7.3 Voor zover Eigen Materialen tijdens de uitvoering van de diensten worden verrijkt, verbeterd of aangepast, berusten de intellectuele eigendomsrechten daarop eveneens bij Optiprise.  
+
+7.4 Optiprise is gerechtigd de (door)ontwikkelde Eigen Materialen vrijelijk te hergebruiken voor andere opdrachten en andere opdrachtgevers.  
+
+7.5 Optiprise verleent aan de Opdrachtgever een niet-exclusief en niet-overdraagbaar gebruiksrecht op de resultaten van de diensten, uitsluitend voor het doel waarvoor deze zijn verstrekt.  
+
+7.6 Optiprise stelt onderdelen van haar werk beschikbaar onder de **Creative Commons Attribution 4.0 International (CC BY 4.0)** licentie.  
+Dit houdt in dat deze onderdelen mogen worden gedeeld en bewerkt, mits correcte naamsvermelding van Optiprise plaatsvindt en de licentievoorwaarden worden nageleefd.  
+
+---
 
 ## Artikel 8: Geheimhouding
-8.1 Beide partijen verplichten zich tot geheimhouding van vertrouwelijke informatie die zij in het kader van de overeenkomst van elkaar verkrijgen.  
+
+8.1 Beide partijen zijn verplicht tot geheimhouding van alle vertrouwelijke informatie die zij in het kader van de overeenkomst van elkaar verkrijgen.  
+
+---
 
 ## Artikel 9: Beëindiging van de Overeenkomst
-9.1 Beide partijen kunnen de overeenkomst schriftelijk beëindigen met inachtneming van een opzegtermijn van één maand, tenzij anders overeengekomen.  
-9.2 Bij voortijdige beëindiging is de Opdrachtgever gehouden tot betaling van de tot dan toe verrichte werkzaamheden.  
+
+9.1 Beide partijen kunnen de overeenkomst schriftelijk opzeggen met inachtneming van een opzegtermijn van één maand, tenzij anders overeengekomen.  
+
+9.2 Bij tussentijdse beëindiging is de Opdrachtgever gehouden tot betaling van de tot dan toe verrichte werkzaamheden.  
+
+---
 
 ## Artikel 10: Toepasselijk Recht en Geschillen
-10.1 Op deze algemene voorwaarden en de overeenkomst is het Nederlands recht van toepassing.  
+
+10.1 Op deze algemene voorwaarden en de overeenkomst is uitsluitend Nederlands recht van toepassing.  
+
 10.2 Geschillen zullen bij uitsluiting worden voorgelegd aan de bevoegde rechter in het arrondissement waar Optiprise is gevestigd.  
 
+---
+
 ## Artikel 11: Overmacht
+
 11.1 Optiprise is niet gehouden tot het nakomen van enige verplichting indien zij daartoe is verhinderd als gevolg van overmacht in de zin van artikel 6:75 BW.  
-11.2 Onder overmacht wordt mede verstaan storingen in (tele)communicatie, IT-infrastructuur, ziekte, niet‑toerekenbare tekortkomingen van derden en andere van buiten komende oorzaken.  
+
+11.2 Onder overmacht wordt mede verstaan storingen in (tele)communicatie, IT-infrastructuur, ziekte en niet-toerekenbare tekortkomingen van derden.  
+
 11.3 In geval van overmacht worden de verplichtingen van Optiprise opgeschort zolang de overmacht voortduurt.  
 
+---
+
 ## Artikel 12: Informatieverstrekking door Opdrachtgever
-12.1 De Opdrachtgever draagt er zorg voor dat alle gegevens en informatie die Optiprise nodig heeft voor een behoorlijke uitvoering van de overeenkomst tijdig en volledig worden verstrekt.  
+
+12.1 De Opdrachtgever draagt zorg voor tijdige en volledige verstrekking van alle informatie die noodzakelijk is voor een behoorlijke uitvoering van de overeenkomst.  
+
 12.2 De Opdrachtgever staat in voor de juistheid en volledigheid van de verstrekte informatie.  
 
+---
+
 ## Artikel 13: Klachten
-13.1 Klachten over de verrichte werkzaamheden dienen door de Opdrachtgever zo spoedig mogelijk, doch uiterlijk binnen 14 dagen na ontdekking, schriftelijk aan Optiprise te worden gemeld.  
+
+13.1 Klachten over de verrichte werkzaamheden dienen zo spoedig mogelijk, doch uiterlijk binnen veertien (14) dagen na ontdekking, schriftelijk aan Optiprise te worden gemeld.  
+
 13.2 Het indienen van een klacht schort de betalingsverplichting van de Opdrachtgever niet op.  
 
+---
+
 ## Artikel 14: Vrijwaring
-14.1 De Opdrachtgever vrijwaart Optiprise tegen aanspraken van derden die verband houden met de uitvoering van de overeenkomst, voor zover deze aanspraken het gevolg zijn van door de Opdrachtgever verstrekte informatie of instructies.  
 
----  
-Voor vragen over deze voorwaarden kunt u contact opnemen met Optiprise via info@optiprise.nl.
+14.1 De Opdrachtgever vrijwaart Optiprise tegen aanspraken van derden die verband houden met de uitvoering van de overeenkomst, voor zover deze aanspraken voortvloeien uit door de Opdrachtgever verstrekte informatie of instructies.  
 
+---
+
+Voor vragen over deze voorwaarden kunt u contact opnemen met Optiprise via  
+**info@optiprise.nl**
