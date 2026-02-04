@@ -28,18 +28,22 @@ description: Versie 2026-01-01
 ## Artikel 5: Vergoeding, Facturering en Betaling
 5.1 De vergoeding voor de diensten wordt overeengekomen in de offerte of overeenkomst.  
 5.2 Facturering vindt maandelijks plaats, tenzij schriftelijk anders overeengekomen.  
-5.3 Betaling dient te geschieden binnen 30 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen. tijdige betaling is de Opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd.
-5.1 De vergoeding voor de diensten wordt overeengekomen in de offerte of overeenkomst.  
-5.2 Betaling dient te geschieden binnen 30 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen.  
-5.3 Bij niet tijdige betaling is de Opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd.  
+5.3 Betaling dient te geschieden binnen 30 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen. tijdige betaling is de Opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd.	
+5.4 De vergoeding voor de diensten wordt overeengekomen in de offerte of overeenkomst.  
+5.5 Betaling dient te geschieden binnen 30 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen.  
+5.6 Bij niet tijdige betaling is de Opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd.  
 
 ## Artikel 6: Aansprakelijkheid
 6.1 Optiprise is niet aansprakelijk voor indirecte schade, gevolgschade of gederfde winst, tenzij sprake is van opzet of grove nalatigheid.  
 6.2 De aansprakelijkheid van Optiprise is beperkt tot het bedrag van de voor de desbetreffende dienst overeengekomen vergoeding.  
 
 ## Artikel 7: Intellectueel Eigendom en Licenties
-7.1 Alle door Optiprise ontwikkelde materialen, rapporten, modellen en adviezen blijven eigendom van Optiprise, tenzij schriftelijk anders overeengekomen.  
-7.2 Optiprise stelt onderdelen van haar werk beschikbaar onder de **Creative Commons Attribution 4.0 International (CC BY 4.0)** licentie. Dit houdt in dat Opdrachtgevers vrij zijn om deze onderdelen te delen en aan te passen, mits correcte naamsvermelding van Optiprise plaatsvindt.  
+7.1 Alle intellectuele eigendomsrechten op de door Optiprise in het kader van de Overeenkomst ontwikkelde of ter beschikking gestelde materialen, rapporten, modellen en adviezen berusten bij Optiprise, tenzij schriftelijk anders overeengekomen.	
+7.2 Alle intellectuele eigendomsrechten op door Optiprise vóór de totstandkoming van de Overeenkomst of onafhankelijk van de Overeenkomst ontwikkelde materialen, waaronder begrepen maar niet beperkt tot bestaande (architectuur)modellen, concepten, methodieken, tekeningen, software, documentatie en andere intellectuele prestaties (hierna: **Eigen Materialen**), berusten te allen tijde bij Optiprise. De Overeenkomst strekt niet tot overdracht van enig intellectueel eigendomsrecht op deze Eigen Materialen.	
+7.3 Voor zover Eigen Materialen tijdens de uitvoering van de werkzaamheden door Optiprise worden verrijkt, verbeterd of aangepast, verkrijgt Optiprise – naast de Opdrachtgever – alle intellectuele eigendomsrechten op deze verrijkingen, verbeteringen of aanpassingen.	
+7.4 Optiprise verkrijgt het onbeperkte recht om de doorontwikkelde Eigen Materialen zelfstandig en vrijelijk te (her)gebruiken, waaronder begrepen het gebruik voor andere opdrachten en andere opdrachtgevers.	 
+7.5 Optiprise verleent aan de Opdrachtgever, voor zover noodzakelijk voor het gebruik van de resultaten van de diensten, een niet‑exclusief en niet‑overdraagbaar gebruiksrecht op de geleverde materialen.	 
+7.6 Optiprise stelt onderdelen van haar werk beschikbaar onder de **Creative Commons Attribution 4.0 International (CC BY 4.0)** licentie. Dit houdt in dat Opdrachtgevers deze onderdelen mogen delen en bewerken, mits correcte naamsvermelding van Optiprise plaatsvindt en de licentievoorwaarden worden nageleefd.
 
 ## Artikel 8: Geheimhouding
 8.1 Beide partijen verplichten zich tot geheimhouding van vertrouwelijke informatie die zij in het kader van de overeenkomst van elkaar verkrijgen.  
