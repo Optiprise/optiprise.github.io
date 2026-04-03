@@ -83,7 +83,7 @@ img.diagram {
 }
 
 xmp {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "Comfortaa",Helvetica,Arial,sans-serif;
 }
 
 /* Alasql console */
@@ -92,9 +92,9 @@ xmp {
 }
 
 /* Changing Navbar color can be done by uncommenting and adapting what follows */
-
+/*
 .navbar {
-    background-color: #214478;
+    background-color: #017a54;
 }
 
 .navbar .navbar-nav>li>a:hover {
@@ -104,6 +104,7 @@ xmp {
 .navbar .navbar-nav>li>a:focus {
     background-color: rgb(255 255 255 / 0%);
 }
+*/
 
 /* Image Zoom Slider */
 .root-panel-heading {
@@ -225,4 +226,61 @@ input[type=range]::-moz-range-thumb {
     right: 0;
     transform: translateY(-50%);
 	padding-right: 5px;
+}
+
+/* Fix for documenation */
+.documentation ul {
+  list-style-type: disc;
+  margin-left: 20px; 
+}
+
+.documentation ul ul {
+  list-style-type: circle;
+}
+
+.documentation ul ul ul {
+  list-style-type: square;
+}
+
+.documentation li {
+  list-style-type: inherit;
+}
+
+/* Adding W+B brand colors*/
+
+.navbar {
+    background-color: #FFF;
+}
+
+.navbar .navbar-nav>li>a:hover {
+    background-color: rgb(#000 / 20%);
+}
+
+.navbar .navbar-nav>li>a:focus {
+    background-color: rgb(#000 / 0%);
+}
+
+.navbar .navbar-nav>li>a {
+    color: #000
+}
+
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  background-image: url('../img/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.navbar-inverse .navbar-brand  {
+    color: #000;
+  	font-family: "Comfortaa",Helvetica,Arial,sans-serif;
+}
+
+.navbar-inverse .navbar-brand:hover  {
+    color: #002966;
 }
