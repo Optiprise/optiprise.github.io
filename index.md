@@ -21,11 +21,10 @@ description: Regie op enterprise-verandering vanuit architectuur.
           </p>
           <p>
             Optiprise brengt richting en samenhang in verandering. Vanuit enterprise architectuur creëren wij inzicht in nut, noodzaak en onderlinge relaties van initiatieven, zodat bestuurders en portfoliomanagers bewuste keuzes kunnen maken. 
-          <p>
-          </p>  
-            Met een bewezen methodiek helpen wij organisaties hun enterprise-architectuurdiscipline duurzaam te versterken. Actief, samen met de organisatie, of door tijdelijk regie te voeren op verandering. De uitgangspunten hiervan zijn vastgelegd in het Optimum Handboek.
           </p>
           <p>
+            Met een bewezen methodiek helpen wij organisaties hun enterprise-architectuurdiscipline duurzaam te versterken. Actief, samen met de organisatie, of door tijdelijk regie te voeren op verandering. De uitgangspunten hiervan zijn vastgelegd in het Optimum Handboek.
+          </p>
             Daarnaast helpen wij organisaties om verandering daadwerkelijk te starten en in beweging te brengen, door iteratief te werken en te beginnen met concrete, kleine stappen.
           <hr/>
           <div class="cta-row">
