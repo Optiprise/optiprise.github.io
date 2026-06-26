@@ -284,3 +284,13 @@ input[type=range]::-moz-range-thumb {
 .navbar-inverse .navbar-brand:hover  {
     color: #002966;
 }
+
+.panel > .panel-heading {
+  background-color: #002966;
+  color: #fff;
+  font-family: "Comfortaa",Helvetica,Arial,sans-serif;  
+}
+
+a {
+  color:#002966;
+}
